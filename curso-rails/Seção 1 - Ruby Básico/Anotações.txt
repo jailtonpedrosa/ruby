@@ -1,0 +1,25 @@
+Listar todas as versões disponives no repositorio
+    rvm list known
+
+Atualiza a lista
+    rvm get head
+
+Lista as versões instaladas localmente
+    rvm list
+
+Instala uma versão escolhida
+    rvm install x.x.x
+
+Instala uma versão escolhida e a torna padrão
+    rvm install x.x.x --default
+
+Após escrever o algoritmo em arquivo, rode no terminal
+    ruby meu_arquivo.rb
+
+IRB - Interactive Ruby Shell
+    Shell interativo do ruby - no terminal digite irb
+    ctrl + L limpa o irb
+    exit sai do irb
+
+PRY - Evolução do irb
+    gem install pry
